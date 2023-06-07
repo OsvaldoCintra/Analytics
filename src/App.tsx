@@ -13,6 +13,15 @@ function App() {
   return (
     <>
       <div>
+        {/* <!-- Google tag (gtag.js) --> */}
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-G0S69PE4HL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-G0S69PE4HL');
+</script>
         <a href="https://react.dev" target="_blank">
           <img
             src={reactLogo}
