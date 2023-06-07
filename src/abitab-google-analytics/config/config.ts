@@ -11,10 +11,10 @@
 
 export default {
   GOOGLE: {
-    GOOGLE_ANALYTICS_ID: "G-650J3RNDXQ",
+    GOOGLE_ANALYTICS_ID: "G-G0S69PE4HL",
     GOOGLE_TAG_MANAGER_ID: "GTM-XXXXXXX"
   },
-  SOCIALMEDIA_LINK_SHORTENER:{
+  SOCIALMEDIA_LINK_SHORTENER: {
     YOUTUBE_BASE: "https://www.youtu.be",
     TWITTER_BASE: "https://www.t.co",
     INSTAGRAM_BASE: "https://www.insta.co",
