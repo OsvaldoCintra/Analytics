@@ -20,7 +20,7 @@ function App() {
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-G0S69PE4HL');
+  gtag('config', 'G-650J3RNDXQ');
 </script>
         <a href="https://react.dev" target="_blank">
           <img
